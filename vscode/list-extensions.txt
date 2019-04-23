@@ -1,0 +1,17 @@
+christian-kohler.npm-intellisense
+christian-kohler.path-intellisense
+CoenraadS.bracket-pair-colorizer
+dbaeumer.vscode-eslint
+eamodio.gitlens
+eg2.vscode-npm-script
+esbenp.prettier-vscode
+formulahendry.terminal
+freebroccolo.reasonml
+mikestead.dotenv
+naumovs.color-highlight
+Orta.vscode-jest
+patrys.vscode-code-outline
+swyphcosmo.spellchecker
+vscode-icons-team.vscode-icons
+wesbos.theme-cobalt2
+wix.vscode-import-cost
