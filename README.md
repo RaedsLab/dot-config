@@ -1,5 +1,4 @@
 # dot-config
+## Abandonned 
 
-## Abandoned
-    
 Configurations I use an reuse
